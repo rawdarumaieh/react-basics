@@ -1,0 +1,23 @@
+.widget .search-field {
+  color: white;
+}
+.widget .search-field:focus {
+  color: white;
+}
+.widget .search-field::-webkit-input-placeholder {
+  color: white;
+}
+
+.widget .search-field:-ms-input-placeholder {
+  color: white;
+}
+
+.widget .search-field:-moz-placeholder {
+  color: white;
+  opacity: 1;
+}
+
+.widget .search-field::-moz-placeholder {
+  color: white;
+  opacity: 1;
+}
